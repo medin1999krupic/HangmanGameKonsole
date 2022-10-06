@@ -1,0 +1,8 @@
+C:\Users\medin.krupic\source\repos\Ampel System\HangManConsole\bin\Debug\HangManConsole.exe.config
+C:\Users\medin.krupic\source\repos\Ampel System\HangManConsole\bin\Debug\HangManConsole.exe
+C:\Users\medin.krupic\source\repos\Ampel System\HangManConsole\bin\Debug\HangManConsole.pdb
+C:\Users\medin.krupic\source\repos\Ampel System\HangManConsole\obj\Debug\HangManConsole.csproj.CoreCompileInputs.cache
+C:\Users\medin.krupic\source\repos\Ampel System\HangManConsole\obj\Debug\HangManConsole.exe
+C:\Users\medin.krupic\source\repos\Ampel System\HangManConsole\obj\Debug\HangManConsole.pdb
+C:\Users\medin.krupic\source\repos\Ampel System\HangManConsole\obj\Debug\HangManConsole.csproj.AssemblyReference.cache
+C:\Users\medin.krupic\source\repos\Ampel System\HangManConsole\obj\Debug\HangManConsole.csproj.SuggestedBindingRedirects.cache
